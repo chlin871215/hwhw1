@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="suck">suck</string>
+    <string name="okok">okok</string>
+    <string name="放大" />
+    <string name="hello" />
+    <string name="bigger" />
+    <string name="helloworld" />
+    <string name="hello_world">hello world!</string>
+</resources>
